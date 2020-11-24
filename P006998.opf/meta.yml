@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W28979
   title: རྟ་ནག་རྣམ་འགྲེལ
-  volume: ''
+  volume:
+    92ea9c12c791407d8e57da7f30b6dd15:
+      image_group_id: I5709
+      title: ''
+      volume_number: 1
+      total_pages: 929
   author: ''
+ebook_metadata:
+  title: རྟ་ནག་རྣམ་འགྲེལ
+  author: ''
+  sku: P006998
+  cover: cover.jpg
+  layers:
+  - pagination
